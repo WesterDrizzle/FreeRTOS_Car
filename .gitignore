@@ -1,0 +1,14 @@
+.vscode
+Obj/** 
+DebugConfig/** 
+# 保留特定文件
+*.uvguix.*
+*.uvoptx
+*.scvd
+*.exe
+*.bat
+*.csv
+*.txt
+*.xlsx
+*.md
+RTE
